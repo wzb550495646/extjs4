@@ -5,7 +5,7 @@
  * use it only in accordance with the terms of the license agreement you entered
  * into with inier.cn
  */
-package com.inier.demo;
+package com.inier.demo.test;
 
 /**
  * @author Administrator
